@@ -1,6 +1,6 @@
 ## Identifiers
-subject - The ID of the test subject
-code - The type code of activity 
+- subject: The ID of the test subject
+- code: The type code of activity 
 
 ## Measurements
 - TimeimeBodyAccelerometerelerometer.mean...X 
@@ -55,7 +55,7 @@ code - The type code of activity
 - FrequencyrequencyBodyAccelerometerelerometerJerk.mean...X 
 - FrequencyrequencyBodyAccelerometerelerometerJerk.mean...Y 
 - FrequencyrequencyBodyAccelerometerelerometerJerk.mean...Z 
-- - FrequencyrequencyBodyAccelerometerelerometerJerk.std...X 
+- FrequencyrequencyBodyAccelerometerelerometerJerk.std...X 
 - FrequencyrequencyBodyAccelerometerelerometerJerk.std...Y 
 - FrequencyrequencyBodyAccelerometerelerometerJerk.std...Z 
 - FrequencyrequencyBodyAccelerometerelerometerJerk.meanFreq...X 
