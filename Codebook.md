@@ -1,6 +1,6 @@
 ## Measurements
-subject 
-code 
+- subject 
+- code 
 - TimeimeBodyAccelerometerelerometer.mean...X 
 - TimeimeBodyAccelerometerelerometer.mean...Y 
 - TimeimeBodyAccelerometerelerometer.mean...Z 
