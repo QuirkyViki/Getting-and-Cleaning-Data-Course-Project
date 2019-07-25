@@ -1,6 +1,8 @@
+## Identifiers
+subject - The ID of the test subject
+code - The type code of activity 
+
 ## Measurements
-- subject 
-- code 
 - TimeimeBodyAccelerometerelerometer.mean...X 
 - TimeimeBodyAccelerometerelerometer.mean...Y 
 - TimeimeBodyAccelerometerelerometer.mean...Z 
